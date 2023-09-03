@@ -1,0 +1,9 @@
+*{box-sizing: border-box;padding: 0;margin: 0;}
+.wrp{width: 50%;margin: 0 auto;height: 100vh;display: flex;align-items: center;justify-content: center;}
+.wrp .user_ran{text-align: center;}
+.wrp .user_ran .user_ran{}
+.wrp .user_ran  img{
+  width: 10%;
+}
+.wrp .user_ran  h6{}
+.wrp .user_ran  p{}
