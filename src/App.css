@@ -3,7 +3,11 @@
 .wrp .user_ran{text-align: center;}
 .wrp .user_ran .user_ran{}
 .wrp .user_ran  img{
-  width: 10%;
+  width: 200px;
+  height: 184px;
+  /* border-radius: 50%; */
+  clip-path: circle(90px);
+  object-fit: cover;
 }
 .wrp .user_ran  h6{}
 .wrp .user_ran  p{}
